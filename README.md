@@ -29,4 +29,8 @@ Estructura del repositorio:
 ETAPA 2 - AVANCES
 En los avances presentamos el diagrama, junto con el circuito del  vehículo automático seguidor de líneas
 
+#Versión 1.1.0
+ETAPA 3 - AVANCES
+Conexiones y carcasa (enfoque en hardware).
+
 
